@@ -1,0 +1,39 @@
+﻿
+> my-project@0.1.0 build C:\Users\Amitoz\Downloads\AIS
+> next build
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 16.7s
+  Skipping validation of types
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/17) ...
+  Generating static pages using 7 workers (4/17) 
+  Generating static pages using 7 workers (8/17) 
+  Generating static pages using 7 workers (12/17) 
+Γ£ô Generating static pages using 7 workers (17/17) in 1628.4ms
+  Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /
+Γö£ Γùï /_not-found
+Γö£ Γùï /about
+Γö£ ╞Æ /api/chat
+Γö£ Γùï /dashboard
+Γö£ Γùï /dashboard/alerts
+Γö£ Γùï /dashboard/chat
+Γö£ Γùï /dashboard/devices
+Γö£ Γùï /dashboard/history
+Γö£ Γùï /dashboard/insights
+Γö£ Γùï /dashboard/live
+Γö£ Γùï /dashboard/settings
+Γö£ Γùï /dashboard/upload
+Γö£ Γùï /dashboard/voice
+Γö£ Γùï /login
+Γöö Γùï /privacy
+
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+
